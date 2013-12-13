@@ -1,0 +1,6 @@
+-cp src
+-swf shoot2.swf
+-swf-header 402:300:60:FFFFFF
+-swf-version 11.6
+-main Game
+-lib h3d
